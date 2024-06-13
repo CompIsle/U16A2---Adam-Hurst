@@ -1,0 +1,14 @@
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.exe
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.deps.json
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.runtimeconfig.json
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.dll
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\bin\Release\net8.0\ConsoleApp3.pdb
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.dll
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\obj\Release\net8.0\refint\ConsoleApp3.dll
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.pdb
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\obj\Release\net8.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\Adam Hurst\Desktop\U16A2hand in\LibaryIndex\ConsoleApp3\obj\Release\net8.0\ref\ConsoleApp3.dll
