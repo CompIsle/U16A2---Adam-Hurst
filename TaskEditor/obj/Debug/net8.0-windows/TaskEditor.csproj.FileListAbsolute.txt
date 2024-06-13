@@ -1,0 +1,60 @@
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.exe
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.deps.json
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.runtimeconfig.json
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.dll
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.pdb
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor_MarkupCompile.cache
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor_MarkupCompile.lref
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.g.resources
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.AssemblyInfoInputs.cache
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.AssemblyInfo.cs
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.csproj.CoreCompileInputs.cache
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.dll
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\refint\TaskEditor.dll
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.pdb
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.genruntimeconfig.cache
+C:\Users\scowe\Desktop\CollegeStuff\U16A2 Task Manager\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\ref\TaskEditor.dll
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.exe
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.deps.json
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.runtimeconfig.json
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.dll
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.pdb
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor_MarkupCompile.cache
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor_MarkupCompile.lref
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.g.resources
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.AssemblyInfoInputs.cache
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.AssemblyInfo.cs
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.csproj.CoreCompileInputs.cache
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.dll
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\refint\TaskEditor.dll
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.pdb
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.genruntimeconfig.cache
+C:\Users\Adam Hurst\Desktop\U16A2\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\ref\TaskEditor.dll
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.exe
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.deps.json
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.runtimeconfig.json
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.dll
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\bin\Debug\net8.0-windows\TaskEditor.pdb
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor_MarkupCompile.cache
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor_MarkupCompile.lref
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.g.resources
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.AssemblyInfoInputs.cache
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.AssemblyInfo.cs
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.csproj.CoreCompileInputs.cache
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.dll
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\refint\TaskEditor.dll
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.pdb
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\TaskEditor.genruntimeconfig.cache
+C:\Users\Adam Hurst\Desktop\U16A2hand in\TaskEditor\TaskEditor\obj\Debug\net8.0-windows\ref\TaskEditor.dll
