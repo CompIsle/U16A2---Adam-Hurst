@@ -346,11 +346,3 @@ When it comes to the client requirements I have met all of the requirements for 
 
 The hardest part of the project was making sure the hash was unique however was also able to not have different hashes for the same data. The next issue was the GUI as it was difficult to make sure that it was working correctly. Then the buttons did not work as intended and had to be fixed.
 
-
-
- 
-optimisatioon
-methods i used talk about a hashing alg why i used it, why itd secure, negatives also
-talk about if things have the same hash, it wont matter cuz its the same
- 
-why was we needing data binding, why it wont work too well
